@@ -2,7 +2,7 @@
 
 ## Einleitung
 
-Im Rechenzentrum an der Pädagogischen Hochschule Karlsruhe wird am 31.08.2024 die Unterbrechungsfreie Stromversorgung (kurz USV) ausgetauscht. Über die spezifischen Vorteile hat der Rektor bereits in einer Rundmail informiert. Anbei finden Sie eine Übersicht, welche Systeme um wieviel Uhr herunter-/ und wieder hochgefahren werden, sowie eine Statuübersicht.
+Im Rechenzentrum an der Pädagogischen Hochschule Karlsruhe wird am 31.08.2024 die Unterbrechungsfreie Stromversorgung (kurz USV) ausgetauscht. Über die spezifischen Vorteile hat der Rektor bereits in einer Rundmail informiert. Anbei finden Sie eine Übersicht, welche Systeme um wieviel Uhr herunter-/ und wieder hochgefahren werden, sowie eine Statusübersicht.
 
 ## Statusübersicht
 
