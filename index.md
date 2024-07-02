@@ -23,6 +23,7 @@ Legende: GK = Geschäftskritisch, NGK = Nicht Geschäftskritisch
 | ---------------------- | ---------- | ------ |
 | studip.ph-karlsruhe.de | GK         | Online |
 | ausweis.phkarlsruhe.de | NGK        | Online |
+
 ## Impressum
 
 **Pädagogische Hochschule Karlsruhe**  
@@ -35,7 +36,8 @@ Telefax +49 721 925-4000
 
 Kontakt: poststelle(at)ph-karlsruhe.de  
 
-Die Pädagogische Hochschule Karlsruhe ist eine Körperschaft des Öffentlichen Rechts. Sie wird durch den Rektor Prof. Dr. Klaus Peter Rippe gesetzlich vertreten.
+Die Pädagogische Hochschule Karlsruhe ist eine Körperschaft des Öffentlichen Rechts. 
+Sie wird durch den Rektor Prof. Dr. Klaus Peter Rippe gesetzlich vertreten.
 
 **Zuständige Aufsichtsbehörde**
 
