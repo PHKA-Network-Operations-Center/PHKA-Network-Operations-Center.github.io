@@ -6,7 +6,7 @@ Im Rechenzentrum an der Pädagogischen Hochschule Karlsruhe wird am 31.08.2024 d
 
 ## Statusübersicht
 
-Legende: GK = Geschäftskritisch, NGK = Nicht Geschäftskritisch
+Legende: GK = Geschäftskritisch, NGK = Nicht geschäftskritisch
 
 | Task                                           | Geplant am        | Deadline          | Status    |
 | ---------------------------------------------- | ----------------- | ----------------- | --------- |
