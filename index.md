@@ -38,6 +38,7 @@ Kontakt: poststelle(at)ph-karlsruhe.de
 Die Pädagogische Hochschule Karlsruhe ist eine Körperschaft des Öffentlichen Rechts. Sie wird durch den Rektor Prof. Dr. Klaus Peter Rippe gesetzlich vertreten.
 
 **Zuständige Aufsichtsbehörde**
+
 Ministerium für Wissenschaft, Forschung und Kunst Baden-Württemberg
 Königstraße 46
 70173 Stuttgart
