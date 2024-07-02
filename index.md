@@ -29,15 +29,16 @@ Legende: GK = Geschäftskritisch, NGK = Nicht Geschäftskritisch
 **Pädagogische Hochschule Karlsruhe**  \
 Bismarckstraße 10  \
 76133 Karlsruhe  \
-Deutschland\
+Deutschland
 
 Telefon +49 721 925-3  \
 Telefax +49 721 925-4000\
 \
 Kontakt: poststelle(at)ph-karlsruhe.de  \
 \
-Die Pädagogische Hochschule Karlsruhe ist eine Körperschaft des Öffentlichen Rechts. \ 
-Sie wird durch den Rektor Prof. Dr. Klaus Peter Rippe gesetzlich vertreten.
+Die Pädagogische Hochschule Karlsruhe ist eine Körperschaft des Öffentlichen Rechts.
+\
+Sie wird durch den Rektor Prof. Dr. Klaus Peter Rippe gesetzlich vertreten. \
 \
 **Zuständige Aufsichtsbehörde**
 \
